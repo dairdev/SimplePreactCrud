@@ -1,0 +1,25 @@
+{
+  "name": "simplecrud",
+  "version": "1.0.0",
+  "description": "Simple example of a crud using preactjs, hooks and tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dairdev/SimplePreactCrud.git"
+  },
+  "keywords": [
+    "preactjs",
+    "crud",
+    "hooks",
+    "tailwindcss"
+  ],
+  "author": "dairdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dairdev/SimplePreactCrud/issues"
+  },
+  "homepage": "https://github.com/dairdev/SimplePreactCrud#readme"
+}
